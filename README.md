@@ -10,9 +10,9 @@ ____
 ____
 **# Скриншоты Выполнения программ для тестов**
 -1003
-![Alt-текст]("https://github.com/EKataya/My-repository/blob/main/1003.bmp")
+![Alt-текст]("https://github.com/EKataya/My-repository/blob/main/1003.jpg")
 
 -128
-![Alt-текст]("https://github.com/EKataya/My-repository/blob/main/128.bmp")
+![Alt-текст]("https://github.com/EKataya/My-repository/blob/main/128.jpg")
 
 
