@@ -10,8 +10,9 @@ ____
 ____
 **# Скриншоты Выполнения программ для тестов**
 -1003
-![Alt-текст]("C:\Users\Екатерина\Desktop\Новая папка\My-repository\1003.bmp")
+![Alt-текст]("https://github.com/EKataya/My-repository/blob/main/1003.bmp")
+
 -128
 ![Alt-текст]("https://github.com/EKataya/My-repository/blob/main/128.bmp")
--256501
+
 
